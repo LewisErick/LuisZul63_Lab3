@@ -23,6 +23,7 @@ header {
 
 .hamburger {
   display: flex;
+  color: white;
   flex-direction: row-reverse;
 }
 
