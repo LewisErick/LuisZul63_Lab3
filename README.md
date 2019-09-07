@@ -5,7 +5,7 @@ LuisZul63_Lab3
 ![lab5_desktop](https://github.com/LewisErick/web_lab3/blob/master/lab5_desktop.png)
 
 ## Tablet
-![lab5_tablet](https://github.com/LewisErick/web_lab3/blob/master/lab5_tablet.png)
+![lab5_tablet](https://github.com/LewisErick/web_lab3/blob/master/lab5_tablet_.png)
 
 ## Mobile
-![lab5_mobile](https://github.com/LewisErick/web_lab3/blob/master/lab5_mobile.png)
+![lab5_mobile](https://github.com/LewisErick/web_lab3/blob/master/lab5_mobile_.png)
